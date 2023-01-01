@@ -1,7 +1,7 @@
 # Agile Estimation
 <div align="center">
 <a href="https://github.com/sheldonanthonyio/AgileEstimation/blob/main/AgileEstimation-15-v5.2.apk?raw=true">
-  <img src="https://pbs.twimg.com/media/FTsp1g5XoAEEXpy?format=jpg&name=large" alt="Tangle">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXE0e_DKC_D8puvEBRlAkne2hsWej-z1X9hk32j6QR6xd-eHborDe0JL5jaete39nbz4F3Ylbzkdf5vbWVMBHeHEZEQs3mvSnRHGvpt7XXqZQYa9QsxVNh2222UJaT8l2227GJOrQMn1peYJMfIaGSD1w9qYdw13eDVd14ibUf6eD2RY-JhofWvKqgIw/s320/AgileEstimation1.png" alt="Tangle">
 </a>
 </div>
 
